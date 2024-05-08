@@ -26,7 +26,8 @@ The project follows these key steps:
 The EDA provides valuable insights for risk analytics in lending. Understanding default patterns helps the company optimize lending strategies and minimize credit losses.
 
 ## Repository Structure
-- **data:** Contains the dataset used for analysis.
+- **loan.csv:** Contains the dataset used for analysis.
+- **Data_Dictionary.xlsx:** Contains the metadata, Columns brief description.
 - **notebooks:** Jupyter notebooks for data preprocessing and EDA.
 - **README.md:** Project overview and documentation.
 
